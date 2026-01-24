@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Adam Farag! 👋
 
-<!--
-**adamehabsamy-code/adamehabsamy-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Computer Science freshman at California State University, Fullerton.
+- 💻 Learning: C++, Java.
+- 🌱 Currently working on: School.
+- 📫 How to reach me: adamehabsamy@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/adamfarag2008/
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+ Git, GitHub, VS Code, Linux.
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- Personal Portfolio Website
+ Portfolio: https://adamehabsamy-code.github.io
+ - Designed and deployed a professional portfolio website showcasing Computer Science projects and technical skills
+ - Implemented responsive web design to display project descriptions, GitHub links, and academic coursework 
+ - Hosted on GitHub Pages with custom domain configuration at adamehabsamy-code.github.io
+
+- Date & Health Calculator Suite 
+-GitHub Link: https://github.com/cpsc-fall-2025/cpsc-120-lab-03-matthew-adam
+- Built two calculation programs: a date difference calculator using the Julian Day algorithm and a Basal Metabolic Rate (BMR) calculator
+- Implemented modular code design with separate functions for calculations, user input prompts, and formatted output
+- Applied mathematical algorithms including the Julian Day formula to compute days between any two dates in history
+
+- Unit Conversion & Measurement
+-GitHub Link: https://github.com/cpsc-fall-2025/cpsc-120-lab-05-emilio-r-adam-f
+- Built a measurement conversion tool that converts decimal feet to feet, inches, and fractional eighths (e.g., 5.75 ft → 5 feet, 9 and 0/8 inches)
+- Implemented input validation and error handling to prevent integer overflow and handle negative values safely
+- Designed modular code architecture using separate header files and custom functions for user prompts and calculations
+
+- Smart Parking Permit Validator
+-GitHub Link: https://github.com/cpsc-fall-2025/cpsc-120-lab-07-adam-f
+- Developed a command-line application that determines parking legality based on street, day, and time using complex municipal parking regulations
+- Implemented comprehensive input validation for command-line arguments including range checking (0-23 hours, 0-59 minutes) and string validation
+- Designed modular Boolean logic functions to evaluate compound parking rules across 4 streets with varying time restrictions and exceptions
+
+
