@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 Computer Science freshman at California State University, Fullerton.
-- 💻 Learning: C++, Java.
+- 💻 Learning: C++ and Java.
 - 🌱 Currently working on: School.
 - 📫 How to reach me: adamehabsamy@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/adamfarag2008/
