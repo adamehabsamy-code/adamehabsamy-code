@@ -30,6 +30,7 @@
 - Implemented input validation and error handling to prevent integer overflow and handle negative values safely
 - Designed modular code architecture using separate header files and custom functions for user prompts and calculations
 
+
 - Smart Parking Permit Validator
 -GitHub Link: https://github.com/cpsc-fall-2025/cpsc-120-lab-07-adam-f
 - Developed a command-line application that determines parking legality based on street, day, and time using complex municipal parking regulations
@@ -37,3 +38,10 @@
 - Designed modular Boolean logic functions to evaluate compound parking rules across 4 streets with varying time restrictions and exceptions
 
 
+* Leftover Food Tracker
+* -GitHub Link: __https://github.com/adamehabsamy-code/leftover-food-tracker-adamehabsamy-code__
+* Built a C++ application to track and manage leftover food records through a web interface
+* Implemented classes for records, reports, and tracker with full add and delete functionality
+* Backend built with the Crow HTTP framework in C++
+* Data saved and loaded using JSON file storage with RapidJSON
+* Frontend built with HTML, CSS, and JavaScript
